@@ -7,6 +7,7 @@ print("Internal URL is: "+INTERNAL_URL)
 
 i = 1
 for(item in POTENTIAL_PASSWORD_LIST):
-    print("Potential password "+i+": "+POTENTIAL_PASSWORD_LIST[i-1])
+    print("Potential password "+i+": "+item)
+    i+=1
     
 print("This is a test script.")
