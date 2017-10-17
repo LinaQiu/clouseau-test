@@ -2,7 +2,7 @@
 
 INTERNAL_URL1 = 'http://jira.agile.bns/'
 INTERNAL_URL2 = 'http://jira.agile.com/'
-INTERNAL_URL3 = 'http://jira.agile.bns/' + 'https://jira.agile.bns/' + 'ftp://jira.agile.bns/'
+INTERNAL_URL3 = 'http://jira.agile.bns/' + 'https://jira.agile.bns/' + 'ftp://jira.agile.bns/' + 'http://jira.agile.bns/'
 INTERNAL_URL3 = 'http://jira.agile.bns/' + 'www.google.com' + 'jira.agile.bns/'
 POTENTIAL_PASSWORD_LIST = ['123456', 'shadow', 'monkey']
 
