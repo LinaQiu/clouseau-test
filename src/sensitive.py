@@ -1,4 +1,4 @@
-# This is a test python file, which includes sensitive information from ROCKYOU password dataset, and some URLs. 
+# This is a test python file, which includes sensitive information from ROCKYOU password dataset, and some URLs. Add another password to test counter.
 
 INTERNAL_URL = 'http://jira.agile.bns/'
 POTENTIAL_PASSWORD_LIST = ['123456', 'shadow', 'monkey']
